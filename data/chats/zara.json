@@ -1,0 +1,19 @@
+{
+  "messages": [
+    {
+      "id": "17772756812500d8egoftb",
+      "sender": "me",
+      "text": "Assalam o alaikum jaan",
+      "timestamp": "2026-04-27T07:41:21.250Z",
+      "status": "read"
+    },
+    {
+      "id": "1777275681252r36ldvx43",
+      "sender": "them",
+      "text": "Tum se kitna pyar hai mujhe, tum soch bhi nahi sakte 🥺❤️",
+      "timestamp": "2026-04-27T07:41:21.252Z",
+      "status": "read",
+      "characterId": "zara"
+    }
+  ]
+}
